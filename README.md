@@ -1,4 +1,4 @@
 # SQL
-# Homework for using SQL to analyze a company
-# dataset availiable on mode.com
-# dataset name tutorial.yammer_events;tutorial.yamma_emails;tutorial.yamma_users
+Homework for using SQL to analyze a company
+Dataset availiable on mode.com
+Dataset name tutorial.yammer_events;tutorial.yamma_emails;tutorial.yamma_users
