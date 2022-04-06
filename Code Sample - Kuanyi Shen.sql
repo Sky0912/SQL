@@ -1,5 +1,3 @@
-/* This is coded in Mode */
-
 /* Graph daily signups */
 select date_trunc('day', created_at) as day,
   count(distinct user_id) as signups
